@@ -1,0 +1,21 @@
+.generalpage {
+    background-color: #ffa3e8;
+    }
+
+h1 {
+    color: white;
+    font-size: 5em;
+    text-align: center;
+    }
+
+.smalltext {
+    font-family: fantasy;
+    color: white;
+    font-size: 3em;
+    }    
+
+p {
+    font-family: cursive;
+    color: white;
+    font-size: 1em;
+    }
